@@ -15,4 +15,4 @@ Your challenge is to apply a design pattern that allows this remote control to b
 ## Class Diagram
 
 
-![UML Diagram - Letran](https://github.com/LanceLetran/commandpattern/assets/142746735/0f24b223-74b3-4430-b36f-22cfe44611bc)
+![UML Diagram - Letran](https://github.com/LanceLetran/commandpattern/assets/142746735/2bad53ec-8f36-492b-8c4a-d96c1e075406)
