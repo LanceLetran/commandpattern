@@ -13,5 +13,6 @@ Ensure that the remote control can send these commands to any device without kno
 Your challenge is to apply a design pattern that allows this remote control to be flexible and extensible, enabling it to control various devices effortlessly. This should be achieved without the remote control having to understand the specific details of how each device operates.
 
 ## Class Diagram
-[UML Diagram - Letran.pdf](https://github.com/LanceLetran/commandpattern/files/12906637/UML.Diagram.-.Letran.pdf)
 
+
+![UML Diagram - Letran](https://github.com/LanceLetran/commandpattern/assets/142746735/0f24b223-74b3-4430-b36f-22cfe44611bc)
