@@ -10,5 +10,4 @@ You can control a variety of devices from a central hub or app, sending commands
 
 ## Class Diagram
 
-
-![UML Diagram - Letran](https://github.com/LanceLetran/commandpattern/assets/142746735/2bad53ec-8f36-492b-8c4a-d96c1e075406)
+![UML Diagram - Letran](https://github.com/LanceLetran/commandpattern/assets/142746735/88f61d05-da3d-47ef-91ca-5035010940dd)
